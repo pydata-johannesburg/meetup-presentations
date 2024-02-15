@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/GitHub/sandox/sp/pydatasa/mlruns/540072474935187130/8fdbe625c57d422eba384ed01b901f6c/artifacts
+end_time: 1707839314438
+entry_point_name: ''
+experiment_id: '540072474935187130'
+lifecycle_stage: active
+run_id: 8fdbe625c57d422eba384ed01b901f6c
+run_name: modelify
+run_uuid: 8fdbe625c57d422eba384ed01b901f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707839309495
+status: 3
+tags: []
+user_id: nawty

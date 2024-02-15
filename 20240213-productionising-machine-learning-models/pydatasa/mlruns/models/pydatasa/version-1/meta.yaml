@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1707839352406
+current_stage: None
+description: ''
+last_updated_timestamp: 1707839352406
+name: pydatasa
+run_id: 8fdbe625c57d422eba384ed01b901f6c
+run_link: ''
+source: file:///D:/Documents/GitHub/sandox/sp/pydatasa/mlruns/540072474935187130/8fdbe625c57d422eba384ed01b901f6c/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/Documents/GitHub/sandox/sp/pydatasa/mlruns/540072474935187130/8fdbe625c57d422eba384ed01b901f6c/artifacts/model
+user_id: null
+version: 1
