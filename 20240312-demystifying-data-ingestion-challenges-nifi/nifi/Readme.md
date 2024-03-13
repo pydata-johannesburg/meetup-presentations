@@ -1,4 +1,6 @@
-**Note**
+**Run Containers**
+
+docker-compose up -d --build
 All login credentials for all services can be found in the docker compose file
 
 **Install postgers driver**
@@ -19,9 +21,11 @@ Driver Location: file:///opt/nifi/nifi-current/lib/postgresql-42.2.23.jar
 
 Schemaname: public
 
+database username: as per docker compose file
+database password: as per docker compose file
+
 **Copy files to the docker container**
 
 docker exec -it nifi_container_persistent /bin/bash
 mkdir files
-docker cp names.csv nifi_container_persistent:/opt/nifi/nifi-current/files
 docker cp Titanic.parquet nifi_container_persistent:/opt/nifi/nifi-current/files
